@@ -1,7 +1,7 @@
 # tour-travel-booking-reactjs
  Tour and Travel Website using ReactJS and Tailwind CSS. 
 # Getting Started with  React App
-This project using with [Create React App](https://github.com/mohamed1323/tour-travel-booking-reactjs.git).
+This project using with [Create React App+Vite](https://github.com/mohamed1323/tour-travel-booking-reactjs.git).
 
 #sample 1
 ![sample photo2](https://github.com/mohamed1323/tour-travel-booking-reactjs/assets/114732963/147b2e7a-0842-4288-ba68-391355eb1431)
