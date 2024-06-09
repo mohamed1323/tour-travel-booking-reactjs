@@ -1,6 +1,7 @@
+#creating tour-travel-somaliarlines
 # Getting Started with  React App
 
-This project using with [Create React App](https://github.com/portofolioweb/create-react-app).
+This project using with [Create React App](https://github.com/mohamed1323/tour-travel-booking-reactjs.git).
 
 ## Available Scripts
 
@@ -26,7 +27,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://github.com/mohamed1323/projects-reactjs.git) for more information.
+See the section about [deployment](https://github.com/mohamed1323/tour-travel-booking-reactjs.git) for more information.
 
 ## Learn More
 
@@ -37,23 +38,17 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Making a Progressive Web Apps
 
-This section has moved here: [https://github.com/mohamed1323/projects-reactjs.git](https://github.com/mohamed1323/projects-reactjs.git)
-
-
-
-# Advanced Configuration
- 
-This section has moved here:[https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+This section has moved here: (https://github.com/mohamed1323/tour-travel-booking-reactjs.git)
 
 
 ### Deployment
 
-This section has moved here:[ https://github.com/mohamed1323/projects-reactjs.git](https://github.com/mohamed1323/projects-reactjs.git)
+This section has moved here:[https://github.com/mohamed1323/tour-travel-booking-reactjs.git)
 
 
 
 ## `npm run build` fails to minify
 
-This section has moved here: [https://github.com/mohamed1323/projects-reactjs.git/troubleshooting#npm-run-build-fails-to-minify](https://github.com/mohamed1323/projects-reactjs.git/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://github.com/mohamed1323/tour-travel-booking-reactjs.git)
 
 
