@@ -48,7 +48,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 
 
-### Making a Progressive Web Apps
+### Making a Progressive Web Apps using reactjs
 
 This section has moved here: (https://github.com/mohamed1323/tour-travel-booking-reactjs.git)
 
@@ -59,8 +59,5 @@ This section has moved here:[https://github.com/mohamed1323/tour-travel-booking-
 
 
 
-## `npm run build` fails to minify
-
-This section has moved here: [https://github.com/mohamed1323/tour-travel-booking-reactjs.git)
 
 
