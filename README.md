@@ -12,7 +12,8 @@ This project using with [Create React App+Vite](https://github.com/mohamed1323/t
 
 
 #sample 3
-<img width="874" alt="sample photo3" src="https://github.com/mohamed1323/tour-travel-booking-reactjs/assets/114732963/afc68e0d-b48c-4ca1-b7dc-c785642da91a">
+<img width="929" alt="SAMPLE3" src="https://github.com/mohamed1323/tour-travel-booking-reactjs/assets/114732963/393da243-0a36-41bd-a334-2cd145cbf666">
+
 
 ## Available Scripts
 
